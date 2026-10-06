@@ -1,0 +1,9 @@
+code/bin/
+
+code/src/apps/out/*
+!code/src/apps/out/.gitkeep
+
+.idea/
+*.iml
+.vscode/
+.DS_Store
