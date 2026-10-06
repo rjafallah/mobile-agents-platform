@@ -61,7 +61,7 @@ Chaque nœud possède un **serveur de noms** local qui expose des services aux a
     └── update-compressertar.sh      # Reconstruit compresser.jar
 ```
 
-## Prérequis
+## Prérequis 
 
 - JDK 17 ou plus récent (testé avec JDK 21)
 - Bash (Linux, macOS, ou WSL / Git Bash sous Windows)
